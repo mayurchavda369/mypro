@@ -20,6 +20,7 @@ urlpatterns = [
     path('singlenews/',views.singlenews,name='singlenews'),
     path('contact/',views.contact,name="contact"),
     path('error/',views.error,name="error"),
+    
  
 
 ]
